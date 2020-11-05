@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyintentApp-wahyuPranata</string>
+<string name="move_activity">Pindah Aktivitas</string>
+<string name="move_with_data">Pindah Aktivitas dengan Data</string>
+<string name="dial_number">Memanggil Telepon</string>
+<string name="move_with_result">Pindah Aktivitas dengan Hasil</string>
+<string name="result_from_activity">Hasil dari Aktivity</string>
+<string name="choose_number">Pilih Angka yang kamu suka</string>
+<string name="_50">50</string>
+<string name="_100">100</string>
+<string name="_150">150</string>
+<string name="_200">200</string>
+<string name="choose">Pilih</string>
+<string name="data_received">Data Diterima</string>
+<string name="this_is_moveactivity">Ini MoveActivity</string>
+</resources>
